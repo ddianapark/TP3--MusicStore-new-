@@ -26,3 +26,4 @@ Z:\2025 4IC\PROGRAMACION\VS Code\TP3-MusicStore(new)\obj\Debug\net8.0\refint\TP3
 Z:\2025 4IC\PROGRAMACION\VS Code\TP3-MusicStore(new)\obj\Debug\net8.0\TP3-MusicStore(new).pdb
 Z:\2025 4IC\PROGRAMACION\VS Code\TP3-MusicStore(new)\obj\Debug\net8.0\TP3-MusicStore(new).genruntimeconfig.cache
 Z:\2025 4IC\PROGRAMACION\VS Code\TP3-MusicStore(new)\obj\Debug\net8.0\ref\TP3-MusicStore(new).dll
+Z:\2025 4IC\PROGRAMACION\VS Code\TP3-MusicStore(new)\obj\Debug\net8.0\TP3-MusicStore(new).sourcelink.json
