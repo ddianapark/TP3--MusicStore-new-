@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP3-MusicStore(new)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34648c84d13848b7b69a2dac443863bc52feb374")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b436ceeae845c7300e0f042f04f3ad3587892762")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP3-MusicStore(new)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP3-MusicStore(new)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

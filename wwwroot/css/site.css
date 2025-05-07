@@ -1,3 +1,10 @@
+*{
+  border: 1px solid black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 1%;
+  padding: 1%;
+  background-color: rgb(255, 225, 242);
+}
 html {
   font-size: 14px;
   min-height: 100%;
@@ -7,6 +14,36 @@ html {
   html {
     font-size: 16px;
   }
+}
+header img{
+  border-radius: 50%;
+  height: 10%;
+  width: 10%;
+  float: left;
+  margin-top: 1%;
+}
+header h1{
+  float: left;
+  font-size: 7ex;
+  margin-left: 1%;
+}
+header p{
+  clear: both;
+}
+
+div{
+  background-color: rgb(239, 200, 255);
+  border-radius: 15px;
+}
+div img{
+  height: 30%;
+  width: auto;
+}
+div h3{
+  font-size: 3ex;
+}
+a:hover {
+  color: plum;
 }
 
 body {
