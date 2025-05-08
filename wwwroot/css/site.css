@@ -34,11 +34,15 @@ header p{
 div{
   background-color: rgb(239, 200, 255);
   border-radius: 15px;
+  margin-top: 2%;
 }
+
 div img{
-  height: 30%;
-  width: auto;
+height: 20%;
+width: auto;
 }
+
+
 div h3{
   font-size: 3ex;
 }
@@ -46,6 +50,9 @@ a:hover {
   color: plum;
 }
 
+div a{
+  margin-left: -1%;
+}
 body {
   margin: 10px;
   padding: 10px;

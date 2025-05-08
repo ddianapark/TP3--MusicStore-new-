@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6uVminhHhNb6uNoLHb+GQqQ3x3HhpLnML+m8P2M7x7w=",
+  "Hash": "Bc9BcaBSPJTM+b1o6RQ/JaVE0xGWhPoqBeDka1iT1hQ=",
   "Source": "TP3-MusicStore(new)",
   "BasePath": "_content/TP3-MusicStore(new)",
   "Mode": "Default",
@@ -188,25 +188,6 @@
       "OriginalItemSpec": "wwwroot\\images\\ha.png"
     },
     {
-      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\images.png",
-      "SourceId": "TP3-MusicStore(new)",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
-      "BasePath": "_content/TP3-MusicStore(new)",
-      "RelativePath": "images/images.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images.png"
-    },
-    {
       "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\jus.png",
       "SourceId": "TP3-MusicStore(new)",
       "SourceType": "Discovered",
@@ -243,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\tay.png",
+      "SourceId": "TP3-MusicStore(new)",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
+      "BasePath": "_content/TP3-MusicStore(new)",
+      "RelativePath": "images/tay.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tay.png"
     },
     {
       "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\un croazón.png",

@@ -41,16 +41,16 @@
       "PackagePath": "staticwebassets\\images\\ha.png"
     },
     {
-      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\images.png",
-      "PackagePath": "staticwebassets\\images\\images.png"
-    },
-    {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\jus.png",
       "PackagePath": "staticwebassets\\images\\jus.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\tay.png",
+      "PackagePath": "staticwebassets\\images\\tay.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\un croazón.png",
