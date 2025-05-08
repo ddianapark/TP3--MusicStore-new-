@@ -13,8 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\24K_Magic.png",
-      "PackagePath": "staticwebassets\\images\\24K_Magic.png"
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\1H.png",
+      "PackagePath": "staticwebassets\\images\\1H.png"
+    },
+    {
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\24K2.png",
+      "PackagePath": "staticwebassets\\images\\24K2.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\BORNPINK.png",
@@ -25,8 +29,12 @@
       "PackagePath": "staticwebassets\\images\\COLD.png"
     },
     {
-      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\after.png",
-      "PackagePath": "staticwebassets\\images\\after.png"
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\after2.png",
+      "PackagePath": "staticwebassets\\images\\after2.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\descarga.png",
@@ -45,16 +53,12 @@
       "PackagePath": "staticwebassets\\images\\jus.png"
     },
     {
-      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\logo.jpg",
-      "PackagePath": "staticwebassets\\images\\logo.jpg"
+      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\tay.png",
       "PackagePath": "staticwebassets\\images\\tay.png"
-    },
-    {
-      "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\un croazón.png",
-      "PackagePath": "staticwebassets\\images\\un croazón.png"
     },
     {
       "Id": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\js\\site.js",

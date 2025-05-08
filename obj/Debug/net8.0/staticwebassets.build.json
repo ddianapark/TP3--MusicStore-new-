@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bc9BcaBSPJTM+b1o6RQ/JaVE0xGWhPoqBeDka1iT1hQ=",
+  "Hash": "+nRs6VIyhiwig6yKqQpCs1J2bBHMaqwJtRfSIRn3jjM=",
   "Source": "TP3-MusicStore(new)",
   "BasePath": "_content/TP3-MusicStore(new)",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\24K_Magic.png",
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\1H.png",
       "SourceId": "TP3-MusicStore(new)",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
       "BasePath": "_content/TP3-MusicStore(new)",
-      "RelativePath": "images/24K_Magic.png",
+      "RelativePath": "images/1H.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\24K_Magic.png"
+      "OriginalItemSpec": "wwwroot\\images\\1H.png"
     },
     {
-      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\after.png",
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\24K2.png",
       "SourceId": "TP3-MusicStore(new)",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
       "BasePath": "_content/TP3-MusicStore(new)",
-      "RelativePath": "images/after.png",
+      "RelativePath": "images/24K2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\after.png"
+      "OriginalItemSpec": "wwwroot\\images\\24K2.png"
+    },
+    {
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\after2.png",
+      "SourceId": "TP3-MusicStore(new)",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
+      "BasePath": "_content/TP3-MusicStore(new)",
+      "RelativePath": "images/after2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\after2.png"
     },
     {
       "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\BORNPINK.png",
@@ -207,12 +226,12 @@
       "OriginalItemSpec": "wwwroot\\images\\jus.png"
     },
     {
-      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\logo.jpg",
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\logo.png",
       "SourceId": "TP3-MusicStore(new)",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
       "BasePath": "_content/TP3-MusicStore(new)",
-      "RelativePath": "images/logo.jpg",
+      "RelativePath": "images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\tay.png",
@@ -245,12 +264,12 @@
       "OriginalItemSpec": "wwwroot\\images\\tay.png"
     },
     {
-      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\un croazón.png",
+      "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\images\\Thumbs.db",
       "SourceId": "TP3-MusicStore(new)",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\",
       "BasePath": "_content/TP3-MusicStore(new)",
-      "RelativePath": "images/un croazón.png",
+      "RelativePath": "images/Thumbs.db",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,7 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\un croazón.png"
+      "OriginalItemSpec": "wwwroot\\images\\Thumbs.db"
     },
     {
       "Identity": "Z:\\2025 4IC\\PROGRAMACION\\VS Code\\TP3-MusicStore(new)\\wwwroot\\js\\site.js",

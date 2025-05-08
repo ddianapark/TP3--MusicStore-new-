@@ -2,15 +2,18 @@
     ViewData["Title"] = "Index";
 }
 
+<p><a href = '@Url.Action("Index", "Home")' alt = "Inicio">Inicio</a></p>
+
 <div>
+    <h5>@ViewBag.Disco.Titulo</h5>
     <img src = "@ViewBag.Disco.FotoUrl">
-    <h1>@ViewBag.Disco.Titulo</h1>
-    <p>@ViewBag.Disco.Artista</p>
-    <p>@ViewBag.Disco.Productor</p>
-    <p>@ViewBag.Disco.Genero</p>
+    <h2>@ViewBag.Disco.Artista</h2>
+    <h3>Productor: @ViewBag.Disco.Productor</h3>
+    <h3>Género: @ViewBag.Disco.Genero</h3>
+    <div>
     @for(int i = 0; i < ViewBag.Disco.Temas.Count; i++)
     {
-        <h2>@ViewBag.Disco.Temas[i]</h2>
+        <h4>- @ViewBag.Disco.Temas[i]</h4>
     } 
-    
+    </div>
 </div>
